@@ -961,12 +961,12 @@ A `final` kulcsszó számos különböző kontextusban használható a Java prog
    final class ZaroOsztaly {
        // Ez az osztály nem leszármaztatható.
    }
-   ```
+   ```	
 
 A `final` kulcsszó használata lehetővé teszi a programozónak, hogy szigorúbb ellenőrzést és garantált viselkedést érjen el a változók, metódusok és osztályok számára. Ezzel elkerülhetők a váratlan változtatások és hibák a kódban, valamint lehetőség nyílik a hatékonyabb optimalizációra is. A `final` kulcsszó alkalmazása azonban bizonyos rugalmasságot is elveszíthet, ezért fontos megfelelően megtervezni és használni a programban.	
 --------------------------------------------------------------------------------------------------------
 
-# Mi a jpa?-(orm és jdbc)		
+# Mi a jpa?-(orm és jdbc)			
 Az adatbázis-kezelési technológiák, például JPA, ORM, JDBC és Hibernate, kulcsfontosságú szerepet játszanak a szoftverfejlesztés során, különösen a relációs adatbázisokkal való kommunikáció területén. Itt találsz egy átfogó vázlatot ezekről a fogalmakról és a kapcsolataikról:
 
 1. **JDBC (Java Database Connectivity):**
