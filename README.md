@@ -927,7 +927,7 @@ exponenciális(2n)
 --------------------------------------------------------------------------------------------------------
 
 # Final kulcsszo?	
-A `final` kulcsszó számos különböző kontextusban használható a Java programozási nyelvben, és megadja, hogy egy adott elem (változó, metódus vagy osztály) nem változtatható meg a futás során, vagy hogy adott esetben különleges tulajdonságokkal rendelkezik. Íme a `final` kulcsszó néhány gyakori felhasználása:
+A `final` kulcsszó számos különböző kontextusban használható a Java programozási nyelvben, és megadja, hogy egy adott elem (változó, metódus vagy osztály) nem változtatható meg a futás során, vagy hogy adott esetben különleges tulajdonságokkal rendelkezik. Íme a `final` kulcsszó néhány gyakori felhasználása:	
 
 1. Változók:
    - A `final` kulcsszóval jelölt változók értékét csak egyszer lehet inicializálni, és nem változtathatók meg utána. Ez hasznos, ha olyan változót szeretnénk létrehozni, aminek az értéke nem változik futás közben.
@@ -963,10 +963,10 @@ A `final` kulcsszó számos különböző kontextusban használható a Java prog
    }
    ```
 
-A `final` kulcsszó használata lehetővé teszi a programozónak, hogy szigorúbb ellenőrzést és garantált viselkedést érjen el a változók, metódusok és osztályok számára. Ezzel elkerülhetők a váratlan változtatások és hibák a kódban, valamint lehetőség nyílik a hatékonyabb optimalizációra is. A `final` kulcsszó alkalmazása azonban bizonyos rugalmasságot is elveszíthet, ezért fontos megfelelően megtervezni és használni a programban.
+A `final` kulcsszó használata lehetővé teszi a programozónak, hogy szigorúbb ellenőrzést és garantált viselkedést érjen el a változók, metódusok és osztályok számára. Ezzel elkerülhetők a váratlan változtatások és hibák a kódban, valamint lehetőség nyílik a hatékonyabb optimalizációra is. A `final` kulcsszó alkalmazása azonban bizonyos rugalmasságot is elveszíthet, ezért fontos megfelelően megtervezni és használni a programban.	
 --------------------------------------------------------------------------------------------------------
 
-# Mi a jpa?-(orm és jdbc)	
+# Mi a jpa?-(orm és jdbc)		
 Az adatbázis-kezelési technológiák, például JPA, ORM, JDBC és Hibernate, kulcsfontosságú szerepet játszanak a szoftverfejlesztés során, különösen a relációs adatbázisokkal való kommunikáció területén. Itt találsz egy átfogó vázlatot ezekről a fogalmakról és a kapcsolataikról:
 
 1. **JDBC (Java Database Connectivity):**
